@@ -1,0 +1,1 @@
+echo "upload test from github is successful!" > /var/www/html/index.html
